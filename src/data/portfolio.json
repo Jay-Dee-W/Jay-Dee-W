@@ -32,7 +32,7 @@
         "link" : "https://goofy-allen-8a87dc.netlify.app",
         "img": "todo.gif",
         "heading" : "SIMPLE TODO",
-        "description" : "a Todo App that creates a todo with a task descriptio.Todo is then visible in the pending list with remove / complete functionality",
+        "description" : "a Todo App that creates a todo with a task description.Todo is then visible in the pending list with remove / complete functionality",
         "tech" : "HTML CSS JS"
 
     },
@@ -116,7 +116,7 @@
         "link" : "https://condescending-lovelace-a0bdc6.netlify.app",
         "img": "rps.gif",
         "heading" : "Rock Paper and Scissors using React.",
-        "description" : "a ReactJS App that allows users to play the ROCK / PAPER / SICCORS game with the computer.",
+        "description" : "a ReactJS App that allows users to play the ROCK / PAPER / SCISSORS game with the computer.",
         "tech" : "React"
     },
     {
@@ -164,7 +164,7 @@
         "link" : "https://unruffled-knuth-68f377.netlify.app/",
         "img": "movies-watchlist.PNG",
         "heading" : "Movies Watchlist",
-        "description" : "React components which displayes a list of movies from TMDB API to add too a second Watchlist component and allows movie to be removed from the watchlist",
+        "description" : "React components which displayes a list of movies from TMDB API to add to a second Watchlist component and allows movie to be removed from the watchlist",
         "tech" : "React Redux Thunk"
     },
     {
