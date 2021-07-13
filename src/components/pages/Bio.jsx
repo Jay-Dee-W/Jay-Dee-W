@@ -26,7 +26,7 @@ export default function Bio() {
                 to meet and exceed their expectations. I understand that web sites and the solutions I offer are critical to my client business success
                 and that this requires constant open an honest communication between us.<br />
                 <br />
-                If you would like to engage me for your web-enables business solutions, I'm currently only contracting through Upwork<br />
+                If you would like to engage me for your web-enables business solutions, please email me jaydee.wilson@gmail.com<br />
                 <br />
             </p>
             <p>
