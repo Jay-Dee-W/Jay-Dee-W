@@ -22,19 +22,23 @@
     border-color: var(--light-green);
   } 
 
-.Sidebar > .arrow:hover {
+.arrow:hover {
     background-color: var(--light-green); 
 }
 
-.Sidebar > .arrow {
+.arrow {
     position: sticky;
-    top: 15em;
-    width: 1em;
-    height: 2em;
+    top: 5em;
+    width: 20px;
+    height: 50px;
     background: var(--dark-green);
     cursor: pointer;
     align-self:auto;
-    flex: 1;
+    font-size: xx-large;
+    /* padding-top: .1%;
+    padding-left: .1%; */
+    
+    /* flex: 1; */
   }
 
 .Sidebar > .items {

@@ -5,9 +5,7 @@ import StateContext from '../state/store'
 export default function Sidebar() {
     let { State, dispatch } = useContext(StateContext)
 
-    const sidebarToggle = () => {
-        dispatch({ type: 'sidebarToggle' })
-    }
+  
     const itemClick = (item) => {
         dispatch({ type: 'changeDisplay', payload: item })
     }
@@ -36,11 +34,9 @@ export default function Sidebar() {
 
                     </div>
                 </div>
-                <div className="arrow" onClick={sidebarToggle}>
-                    {/* {State.sidebar ? <img src="arrow-close.svg" alt="javascript" /> : <img src="arrow-open.svg" alt="javascript" />} */}
-                    {State.sidebar ? '<' : '>'}
-                </div>
+             
             </div>
+
         </div>
     )
 }
