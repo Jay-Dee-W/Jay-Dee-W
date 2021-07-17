@@ -26,12 +26,11 @@ export default function Bio() {
                 to meet and exceed their expectations. I understand that web sites and the solutions I offer are critical to my client business success
                 and that this requires constant open an honest communication between us.<br />
                 <br />
-                If you would like to engage me for your web-enables business solutions, please email me jaydee.wilson@gmail.com<br />
+                If you would like to engage me for your web-enabled business solutions, please use the Contact link in the Side Navigation bar<br />
                 <br />
             </p>
             <p>
-                For more details on my work experience please select the Curriculum Vita section 
-                or for examples of my work please select the Portfolio section<br />
+                For more details on my work experience please select the Curriculum Vita link  or for examples of my work please select the Portfolio link<br />
                 <br/>
             </p>
         </div>
