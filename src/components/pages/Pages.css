@@ -55,3 +55,37 @@
   .logos > a > img:hover {
     background: #96CE3F;
   }
+.contact-form {
+    border: 1px solid var(--dark-green);
+    display: flex;
+    flex-direction: column;
+    align-items: baseline;
+    padding: 2%;
+    margin-top: 1%;
+    width: 70vw;
+}
+.contact-form:hover {
+    border: 2px solid var(--light-green);
+}
+input, textarea, button {
+    border: 2px solid var(--dark-green);
+    padding: 1% 2%;
+    background-color: var(--grey);
+    width: 100%;
+}
+input:focus ,textarea:focus, button:focus {
+      outline-color: var(--light-green);
+      background-color: var(--light-green);
+}
+label {
+      padding: 1% 2%;
+}
+
+button {
+    margin-top: 2%;
+    padding: 1% 2%;
+    background-color: var(--dark-green);
+}
+button:hover{
+    background-color: var(--light-green);
+}
