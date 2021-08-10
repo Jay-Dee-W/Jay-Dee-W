@@ -75,6 +75,16 @@ export default function CV() {
                         <p>November 2020</p>
                     </td>
                 </tr>
+                <tr>
+                    <td>
+                        <a href="https://www.freecodecamp.org/certification/jaydeew/responsive-web-design" target='_blank'  rel="noreferrer">
+                        Responsive Web Design
+                        </a>
+                    </td>
+                    <td>
+                        <p>July 2021</p>
+                    </td>
+                </tr>                
             </table>
             <br />
             <h3><a href="https://www.certmetrics.com/comptia/public/transcript.aspx?transcript=K1KJ8HZ2KBQQ1R37" target='_blank'  rel="noreferrer">CompTIA</a></h3>
