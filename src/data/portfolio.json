@@ -4,7 +4,7 @@
         "id" : "23",
         "link" : " https://apollo-starwars-client.herokuapp.com/",
         "img": "starwars.gif",
-        "heading" : "Cake Shop",
+        "heading" : "Starwars",
         "description" : "An Apollo GraphQL API server that wraps the Star Wars API (https://swapi.dev/) with a React SPA client that consumes the API",
         "tech" : "Apollo GraphQL React TypeScipt Heroku NodeJS"
 
