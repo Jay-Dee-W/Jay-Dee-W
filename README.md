@@ -1,4 +1,4 @@
-<h1 align="center"> <a href="https://jaydeew.netlify.app"> View My Portfolio Website </a></h1>
+<h1 align="center"> <a href="https://jay-dee-w.github.io"> View My Portfolio Website </a></h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jay-dee-w&label=Profile%20views&color=0e75b6&style=flat" alt="jay-dee-w" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jay-dee-w" alt="jay-dee-w" /></a> </p>
